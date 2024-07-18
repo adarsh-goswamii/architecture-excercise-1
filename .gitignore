@@ -1,0 +1,4 @@
+/backend/dist/
+/worker/dist/
+/backend/node_modules/
+/worker/node_modules/
